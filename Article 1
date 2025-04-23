@@ -1,0 +1,22 @@
+#Ever wondered how real-time giants like LinkedIn and Netflix handle billions of events per day?
+
+ #The secret sauce is  Apache Kafka—the powerhouse behind real-time streaming data.
+
+#But setting up Kafka clusters, managing brokers, and scaling consumers?
+
+ #Yeah… that can get overwhelming.
+
+#That’s why I’ve written a complete beginner-friendly guide to Kafka—
+
+#:-  Covering everything from producers, consumers, topics, partitions, offsets, brokers, zookeepers, and replication
+
+# :- Plus, how to easily get started using Confluent Cloud (Kafka as a Service)
+
+# :-  Bonus: Integrating Kafka with Spring Boot in just a few lines of code!
+
+#  :- I’ve shared the full article on Medium with step-by-step setup and real-world use cases.
+
+ #Perfect for backend engineers, cloud developers, and curious learners!
+
+ #Read from attrached link.
+#  https://medium.com/@mishradeepanshu027/apache-kafka-confluent-cloud-a-complete-beginner-friendly-guide-d2b54fca1ecd
